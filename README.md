@@ -1,6 +1,6 @@
 # Neural-Machine-Translation-NMT-using-BI-LSTM-and-Attention
 
-n text data, leveraging the power of LSTMs to understand and extract meaningful information from sequences.
+
 
 
 ![alt text](https://github.com/BheZelmat/Neural-Machine-Translation-NMT-using-BI-LSTM-and-Attention/blob/main/Img.png?raw=true)
